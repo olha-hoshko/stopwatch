@@ -1,0 +1,23 @@
+h2 {
+  font-size: 18px;
+  color: azure;
+  margin: 15px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  letter-spacing: 1px;
+}
+
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 12em;
+  min-width: 20em;
+  border: none;
+  border-radius: 1.5em;
+
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}

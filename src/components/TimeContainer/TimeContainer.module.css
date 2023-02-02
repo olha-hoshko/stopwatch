@@ -1,0 +1,19 @@
+.saved_time_container {
+    height: 20px;
+    width: 50%;
+    overflow-y: auto;
+
+    position: absolute;
+    left: 50%;
+    -ms-transform: translate(-50%);
+    transform: translate(-50%);
+}
+
+.saved_time {
+    margin: 0;
+    padding: 0;
+    height: 18px;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
